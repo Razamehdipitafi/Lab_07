@@ -1,4 +1,2 @@
 These are the contents of the file.
-
-
 This Lab explains git and GitHub thoroughly.
